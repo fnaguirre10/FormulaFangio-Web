@@ -1,0 +1,170 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site1.master.vb" Inherits="FormulaFangio.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+      <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <asp:ContentPlaceHolder ID="head" runat="server">
+  </asp:ContentPlaceHolder>
+  <title>Formula Fangio</title>
+  <!-- Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500&display=swap" rel="stylesheet">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+  <!-- CUSTOM CSS -->
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <div class="container">
+    <div class="menu-btn">
+        <i class="fas fa-bars fa-2x"></i>
+    </div>
+        <!-- Navigation -->
+    <nav class="nav-main">
+      <!-- Brand -->
+      <a href="index.aspx">
+         <img src="img/brand.png" alt="FormulaFangio Logo" class="nav-brand">
+       </a>
+      <!-- Left Nav -->
+      <ul class="nav-menu">
+        <li>
+          <a href="news.aspx">Noticias</a>
+        </li>
+        <li>
+          <a href="schedule.aspx">Calendario</a>
+        </li>
+        <li>
+          <a href="#">Resultados</a>
+        </li>
+        <li>
+          <a href="#">Escuderias</a>
+        </li>
+        <li>
+          <a href="drivers.aspx">Pilotos</a>
+        </li>
+        <li>
+          <a href="#">Campeonato Pilotos</a>
+        </li>
+        <li>
+          <a href="#">Campeonato Escuderias</a>
+        </li>
+        <li>
+          <a href="#">Más contenido</a>
+        </li>
+      </ul>
+
+      <!-- Right Nav -->
+      <ul class="nav-menu-right">
+        <li>
+          <a href="#">
+            <i class="fas fa-search"></i>
+          </a>
+        </li>
+      </ul>
+    </nav>
+    <hr>
+       <div>
+         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+         </asp:ContentPlaceHolder>
+       </div>
+
+            <!-- Follow -->
+    <section class="social">
+      <p>Follow Formula Fangio</p>
+      <div class="links">
+        <a href="https://twitter.com" target="_blank">
+          <i class="fab fa-twitter"></i>
+        </a>
+        <a href="https://www.instagram.com/formulafangio/" target="_blank">
+          <i class="fab fa-instagram"></i>
+        </a>
+      </div>
+    </section>
+
+      <!-- Footer Links -->
+      <div class="footer-links">
+        <div class="footer-container">
+          <ul>
+            <li>
+              <a href="#">
+                <h3>Últimas Noticias</h3>
+              </a>
+            </li>
+            <li>
+              <a href="news.aspx">Noticias</a>
+            </li>
+            <li>
+              <a href="#">Pilotos</a>
+            </li>
+            <li>
+              <a href="#">Escuderias</a>
+            </li>
+            <li>
+              <a href="schedule.aspx">Calendario</a>
+            </li>
+          </ul>
+          <ul>
+            <li>
+              <a href="#">
+                <h3>Resultados</h3>
+              </a>
+            </li>
+            <li>
+              <a href="#">Carreras</a>
+            </li>
+            <li>
+              <a href="#">Campeonato Pilotos</a>
+            </li>
+            <li>
+              <a href="#">Campeonato Equipos</a>
+            </li>
+          </ul>
+          <ul>
+            <li>
+              <a href="#">
+                <h3>Info</h3>
+              </a>
+            </li>
+            <li>
+              <a href="#">Pilotos</a>
+            </li>
+            <li>
+              <a href="#">Escuderias</a>
+            </li>
+            <li>
+              <a href="#">Circuitos</a>
+            </li>
+          </ul>
+          <ul>
+            <li>
+              <a href="#">
+                <h3>Redes Sociales</h3>
+              </a>
+            </li>
+            <li>
+              <a href="#">Instagram</a>
+            </li>
+            <li>
+              <a href="#">Twitter</a>
+            </li>
+            <li>
+              <a href="#">Thread</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <h3>Formula Fangio Copyright</h3>
+    </footer>
+    
+    <!-- Scroll Reveal -->
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <script src="../js/script.js"></script>
+
+   </div>
+</body>
+</html>
