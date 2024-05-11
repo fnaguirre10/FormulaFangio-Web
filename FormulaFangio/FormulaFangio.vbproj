@@ -93,6 +93,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\style.css" />
+    <Content Include="drivers-f1\perez.aspx" />
+    <Content Include="drivers-f1\verstappen.aspx" />
     <Content Include="drivers.aspx" />
     <Content Include="js\script.js" />
     <Content Include="news.aspx" />
@@ -103,6 +105,27 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="drivers-f1\perez.aspx.designer.vb">
+      <DependentUpon>perez.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="drivers-f1\perez.aspx.vb">
+      <DependentUpon>perez.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="drivers-f1\Site2.Master.designer.vb">
+      <DependentUpon>Site2.Master</DependentUpon>
+    </Compile>
+    <Compile Include="drivers-f1\Site2.Master.vb">
+      <DependentUpon>Site2.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="drivers-f1\verstappen.aspx.designer.vb">
+      <DependentUpon>verstappen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="drivers-f1\verstappen.aspx.vb">
+      <DependentUpon>verstappen.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="drivers.aspx.designer.vb">
       <DependentUpon>drivers.aspx</DependentUpon>
     </Compile>
@@ -167,6 +190,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="drivers-f1\Site2.Master" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>

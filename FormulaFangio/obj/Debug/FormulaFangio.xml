@@ -37,6 +37,24 @@ FormulaFangio
  Returns the Asp log object.
  </summary>
 </member>
+<member name="F:FormulaFangio.Site1._head2">
+<summary>
+head2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:FormulaFangio.Site1._ContentPlaceHolder2">
+<summary>
+ContentPlaceHolder2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 <member name="F:FormulaFangio.Site1._head">
 <summary>
 head control.
