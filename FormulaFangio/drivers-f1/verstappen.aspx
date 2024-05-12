@@ -9,10 +9,11 @@
         </div>
         <div class="driver-info">
             <h2>Información del Piloto</h2>
+            <img src="../img/drivers-helmet/verstappen.png" alt="Casco de Max Verstappen" class="driver-helmet">
             <ul class="driver-resume">
                 <li><strong>Equipo:</strong> Red Bull Racing</li>
                 <li><strong>País:</strong> Países Bajos</li>
-                <li><strong>Pódios:</strong> 103</li>
+                <li><strong>Podios:</strong> 103</li>
                 <li><strong>Puntos:</strong> 2722.5</li>
                 <li><strong>Grandes Premios disputados:</strong> 191</li>
                 <li><strong>Campeonatos del Mundo:</strong> 3</li>

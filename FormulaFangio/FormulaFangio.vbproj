@@ -93,8 +93,27 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\style.css" />
+    <Content Include="drivers-f1\albon.aspx" />
+    <Content Include="drivers-f1\alonso.aspx" />
+    <Content Include="drivers-f1\bottas.aspx" />
+    <Content Include="construction.aspx" />
+    <Content Include="drivers-f1\gasly.aspx" />
+    <Content Include="drivers-f1\hamilton.aspx" />
+    <Content Include="drivers-f1\hulkenberg.aspx" />
+    <Content Include="drivers-f1\leclerc.aspx" />
+    <Content Include="drivers-f1\magnussen.aspx" />
+    <Content Include="drivers-f1\norris.aspx" />
+    <Content Include="drivers-f1\ocon.aspx" />
     <Content Include="drivers-f1\perez.aspx" />
+    <Content Include="drivers-f1\piastri.aspx" />
+    <Content Include="drivers-f1\ricciardo.aspx" />
+    <Content Include="drivers-f1\russell.aspx" />
+    <Content Include="drivers-f1\sainz.aspx" />
+    <Content Include="drivers-f1\sargeant.aspx" />
+    <Content Include="drivers-f1\stroll.aspx" />
+    <Content Include="drivers-f1\tsunoda.aspx" />
     <Content Include="drivers-f1\verstappen.aspx" />
+    <Content Include="drivers-f1\zhou.aspx" />
     <Content Include="drivers.aspx" />
     <Content Include="js\script.js" />
     <Content Include="news.aspx" />
@@ -105,11 +124,123 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="drivers-f1\albon.aspx.designer.vb">
+      <DependentUpon>albon.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="drivers-f1\albon.aspx.vb">
+      <DependentUpon>albon.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="drivers-f1\alonso.aspx.designer.vb">
+      <DependentUpon>alonso.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="drivers-f1\alonso.aspx.vb">
+      <DependentUpon>alonso.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="drivers-f1\bottas.aspx.designer.vb">
+      <DependentUpon>bottas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="drivers-f1\bottas.aspx.vb">
+      <DependentUpon>bottas.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="construction.aspx.designer.vb">
+      <DependentUpon>construction.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="construction.aspx.vb">
+      <DependentUpon>construction.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="drivers-f1\gasly.aspx.designer.vb">
+      <DependentUpon>gasly.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="drivers-f1\gasly.aspx.vb">
+      <DependentUpon>gasly.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="drivers-f1\hamilton.aspx.designer.vb">
+      <DependentUpon>hamilton.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="drivers-f1\hamilton.aspx.vb">
+      <DependentUpon>hamilton.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="drivers-f1\hulkenberg.aspx.designer.vb">
+      <DependentUpon>hulkenberg.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="drivers-f1\hulkenberg.aspx.vb">
+      <DependentUpon>hulkenberg.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="drivers-f1\leclerc.aspx.designer.vb">
+      <DependentUpon>leclerc.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="drivers-f1\leclerc.aspx.vb">
+      <DependentUpon>leclerc.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="drivers-f1\magnussen.aspx.designer.vb">
+      <DependentUpon>magnussen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="drivers-f1\magnussen.aspx.vb">
+      <DependentUpon>magnussen.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="drivers-f1\norris.aspx.designer.vb">
+      <DependentUpon>norris.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="drivers-f1\norris.aspx.vb">
+      <DependentUpon>norris.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="drivers-f1\ocon.aspx.designer.vb">
+      <DependentUpon>ocon.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="drivers-f1\ocon.aspx.vb">
+      <DependentUpon>ocon.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="drivers-f1\perez.aspx.designer.vb">
       <DependentUpon>perez.aspx</DependentUpon>
     </Compile>
     <Compile Include="drivers-f1\perez.aspx.vb">
       <DependentUpon>perez.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="drivers-f1\piastri.aspx.designer.vb">
+      <DependentUpon>piastri.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="drivers-f1\piastri.aspx.vb">
+      <DependentUpon>piastri.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="drivers-f1\ricciardo.aspx.designer.vb">
+      <DependentUpon>ricciardo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="drivers-f1\ricciardo.aspx.vb">
+      <DependentUpon>ricciardo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="drivers-f1\russell.aspx.designer.vb">
+      <DependentUpon>russell.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="drivers-f1\russell.aspx.vb">
+      <DependentUpon>russell.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="drivers-f1\sainz.aspx.designer.vb">
+      <DependentUpon>sainz.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="drivers-f1\sainz.aspx.vb">
+      <DependentUpon>sainz.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="drivers-f1\sargeant.aspx.designer.vb">
+      <DependentUpon>sargeant.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="drivers-f1\sargeant.aspx.vb">
+      <DependentUpon>sargeant.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="drivers-f1\Site2.Master.designer.vb">
@@ -119,11 +250,32 @@
       <DependentUpon>Site2.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
+    <Compile Include="drivers-f1\stroll.aspx.designer.vb">
+      <DependentUpon>stroll.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="drivers-f1\stroll.aspx.vb">
+      <DependentUpon>stroll.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="drivers-f1\tsunoda.aspx.designer.vb">
+      <DependentUpon>tsunoda.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="drivers-f1\tsunoda.aspx.vb">
+      <DependentUpon>tsunoda.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="drivers-f1\verstappen.aspx.designer.vb">
       <DependentUpon>verstappen.aspx</DependentUpon>
     </Compile>
     <Compile Include="drivers-f1\verstappen.aspx.vb">
       <DependentUpon>verstappen.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="drivers-f1\zhou.aspx.designer.vb">
+      <DependentUpon>zhou.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="drivers-f1\zhou.aspx.vb">
+      <DependentUpon>zhou.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="drivers.aspx.designer.vb">

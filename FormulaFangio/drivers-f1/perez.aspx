@@ -9,10 +9,11 @@
         </div>
         <div class="driver-info">
             <h2>Información del Piloto</h2>
+            <img src="../img/drivers-helmet/perez.png" alt="Casco de Sergio Perez" class="driver-helmet">
             <ul class="driver-resume">
                 <li><strong>Equipo:</strong> Red Bull Racing</li>
                 <li><strong>País:</strong> Mexico</li>
-                <li><strong>Pódios:</strong> 39</li>
+                <li><strong>Podios:</strong> 39</li>
                 <li><strong>Puntos:</strong> 1587</li>
                 <li><strong>Grandes Premios disputados:</strong> 264</li>
                 <li><strong>Campeonatos del Mundo:</strong> 0</li>

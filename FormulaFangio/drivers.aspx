@@ -24,7 +24,7 @@
             <hr class="name-divider">
             <img class="driverph" src="img/drivers/perez.png" alt="Max Verstappen">
         </div>
-        <div class="drivers-card-ferr">
+        <div class="drivers-card-ferr1">
             <div class="driver-name">
                 <div class="line-driver-ferr"></div>
                 <p>Charles</p>
@@ -34,7 +34,7 @@
             <hr class="name-divider">
             <img class="driverph" src="img/drivers/leclerc.png" alt="Max Verstappen">
         </div>
-        <div class="drivers-card-ferr">
+        <div class="drivers-card-ferr2">
             <div class="driver-name">
                 <div class="line-driver-ferr"></div>
                 <p>Carlos</p>
@@ -44,7 +44,7 @@
             <hr class="name-divider">
             <img class="driverph" src="img/drivers/sainz.png" alt="Max Verstappen">
         </div>
-        <div class="drivers-card-mclaren">
+        <div class="drivers-card-mclaren1">
             <div class="driver-name">
                 <div class="line-driver-mclaren"></div>
                 <p>Lando</p>
@@ -54,7 +54,7 @@
             <hr class="name-divider">
             <img class="driverph" src="img/drivers/norris.png" alt="Max Verstappen">
         </div>
-        <div class="drivers-card-mclaren">
+        <div class="drivers-card-mclaren2">
             <div class="driver-name">
                 <div class="line-driver-mclaren"></div>
                 <p>Oscar</p>
@@ -64,7 +64,7 @@
             <hr class="name-divider">
             <img class="driverph" src="img/drivers/piastri.png" alt="Max Verstappen">
         </div>
-        <div class="drivers-card-merc">
+        <div class="drivers-card-merc1">
             <div class="driver-name">
                 <div class="line-driver-merc"></div>
                 <p>Lewis</p>
@@ -74,7 +74,7 @@
             <hr class="name-divider">
             <img class="driverph" src="img/drivers/hamilton.png" alt="Max Verstappen">
         </div>
-        <div class="drivers-card-merc">
+        <div class="drivers-card-merc2">
             <div class="driver-name">
                 <div class="line-driver-merc"></div>
                 <p>George</p>
@@ -84,7 +84,7 @@
             <hr class="name-divider">
             <img class="driverph" src="img/drivers/russell.png" alt="Max Verstappen">
         </div>
-        <div class="drivers-card-aston">
+        <div class="drivers-card-aston1">
             <div class="driver-name">
                 <div class="line-driver-aston"></div>
                 <p>Fernando</p>
@@ -94,7 +94,7 @@
             <hr class="name-divider">
             <img class="driverph" src="img/drivers/alonso.png" alt="Max Verstappen">
         </div>
-        <div class="drivers-card-aston">
+        <div class="drivers-card-aston2">
             <div class="driver-name">
                 <div class="line-driver-aston"></div>
                 <p>Lance</p>
@@ -104,7 +104,7 @@
             <hr class="name-divider">
             <img class="driverph" src="img/drivers/stroll.png" alt="Max Verstappen">
         </div>
-        <div class="drivers-card-visarb">
+        <div class="drivers-card-visarb1">
             <div class="driver-name">
                 <div class="line-driver-visarb"></div>
                 <p>Yuki</p>
@@ -114,7 +114,7 @@
             <hr class="name-divider">
             <img class="driverph" src="img/drivers/tsunoda.png" alt="Max Verstappen">
         </div>
-        <div class="drivers-card-visarb">
+        <div class="drivers-card-visarb2">
             <div class="driver-name">
                 <div class="line-driver-visarb"></div>
                 <p>Daniel</p>
@@ -124,7 +124,7 @@
             <hr class="name-divider">
             <img class="driverph" src="img/drivers/ricciardo.png" alt="Max Verstappen">
         </div>
-        <div class="drivers-card-haas">
+        <div class="drivers-card-haas1">
             <div class="driver-name">
                 <div class="line-driver-haas"></div>
                 <p>Nico</p>
@@ -134,7 +134,7 @@
             <hr class="name-divider">
             <img class="driverph" src="img/drivers/hulkenberg.png" alt="Max Verstappen">
         </div>
-        <div class="drivers-card-haas">
+        <div class="drivers-card-haas2">
             <div class="driver-name">
                 <div class="line-driver-haas"></div>
                 <p>Kevin</p>
@@ -144,7 +144,7 @@
             <hr class="name-divider">
             <img class="driverph" src="img/drivers/magnussen.png" alt="Max Verstappen">
         </div>
-        <div class="drivers-card-alpine">
+        <div class="drivers-card-alpine1">
             <div class="driver-name">
                 <div class="line-driver-alpine"></div>
                 <p>Esteban</p>
@@ -154,7 +154,7 @@
             <hr class="name-divider">
             <img class="driverph" src="img/drivers/ocon.png" alt="Max Verstappen">
         </div>
-        <div class="drivers-card-alpine">
+        <div class="drivers-card-alpine2">
             <div class="driver-name">
                 <div class="line-driver-alpine"></div>
                 <p>Pierre</p>
@@ -164,7 +164,7 @@
             <hr class="name-divider">
             <img class="driverph" src="img/drivers/gasly.png" alt="Max Verstappen">
         </div>
-         <div class="drivers-card-williams">
+         <div class="drivers-card-williams1">
             <div class="driver-name">
                 <div class="line-driver-williams"></div>
                 <p>Alexander</p>
@@ -174,7 +174,7 @@
             <hr class="name-divider">
             <img class="driverph" src="img/drivers/albon.png" alt="Max Verstappen">
         </div>
-        <div class="drivers-card-williams">
+        <div class="drivers-card-williams2">
             <div class="driver-name">
                 <div class="line-driver-williams"></div>
                 <p>Logan</p>
@@ -184,7 +184,7 @@
             <hr class="name-divider">
             <img class="driverph" src="img/drivers/sargeant.png" alt="Max Verstappen">
         </div>
-        <div class="drivers-card-kick">
+        <div class="drivers-card-kick1">
             <div class="driver-name">
                 <div class="line-driver-kick"></div>
                 <p>Valtteri</p>
@@ -194,7 +194,7 @@
             <hr class="name-divider">
             <img class="driverph" src="img/drivers/bottas.png" alt="Max Verstappen">
         </div>
-        <div class="drivers-card-kick">
+        <div class="drivers-card-kick2">
             <div class="driver-name">
                 <div class="line-driver-kick"></div>
                 <p>Guanyu</p>

@@ -60,7 +60,7 @@
         <!-- lorem 20 -->
         <p>¡Conoce a todos los pilotos de la Fórmula 1 con un solo clic!</p>
         <p>Descubre los perfiles detallados de cada competidor. Haz clic aquí para explorar el emocionante mundo de la F1.</p>
-        <a href="#" class="btn">Leer más <i class="fas fa-chevron-right"></i></a>
+        <a href="drivers.aspx" class="btn">Leer más <i class="fas fa-chevron-right"></i></a>
       </div>
     </section>
 
